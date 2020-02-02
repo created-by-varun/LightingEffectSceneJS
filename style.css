@@ -23,6 +23,7 @@ canvas {
 
 a {
   color: #fff;
+  letter-spacing: 3px;
 }
 
 .link {
@@ -40,3 +41,4 @@ a {
   color: #FF5649;
   background-color: white;
 }
+
